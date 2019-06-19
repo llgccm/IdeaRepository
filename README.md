@@ -1,0 +1,2 @@
+# IdeaRepository
+Idea专用
